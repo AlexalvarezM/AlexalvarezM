@@ -36,3 +36,15 @@
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexalvarezM&theme=tokyonight&hide_border=true" alt="Estadísticas de contribución de Alex" />
 </p>
+
+<br>
+
+### 👾 Mi actividad de GitHub
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlexalvarezM/AlexalvarezM/pacman-output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlexalvarezM/AlexalvarezM/pacman-output/pacman-contribution-graph.svg">
+    <img alt="Animación de Pac-Man con mis contribuciones" src="https://raw.githubusercontent.com/AlexalvarezM/AlexalvarezM/pacman-output/pacman-contribution-graph-dark.svg">
+  </picture>
+</p>
