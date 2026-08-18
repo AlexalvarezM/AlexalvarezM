@@ -5,7 +5,7 @@
 
 <br>
 
-https://alex-kd96c5l29-alex-alvarez-s-projects.vercel.app
+https://alex-dev-iota.vercel.app
 
 ### 🛠️ Tecnologías que uso
 
